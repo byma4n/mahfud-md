@@ -1,0 +1,23 @@
+# Dependensi dan build
+node_modules/
+.next/
+out/
+dist/
+build/
+.turbo/
+
+# Data instansi (jangan ikut ke repo — ini milik pengguna, bukan kode)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+data/uploads/
+
+# Lingkungan dan rahasia
+.env
+.env.*
+!.env.example
+
+# Sistem
+.DS_Store
+*.log

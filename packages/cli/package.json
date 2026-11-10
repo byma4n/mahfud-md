@@ -1,0 +1,1 @@
+{"bin":{"mahfud":"./src/index.js"},"description":"Perintah mahfud: init, start, backup, doctor","license":"MIT","name":"@mahfud-md/cli","type":"module","version":"0.1.0"}
