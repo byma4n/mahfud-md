@@ -21,3 +21,4 @@ data/uploads/
 # Sistem
 .DS_Store
 *.log
+next-env.d.ts
